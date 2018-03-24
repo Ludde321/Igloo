@@ -1,0 +1,8 @@
+C:\Ludde\Sources\Igloo\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Ludde\Sources\Igloo\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Ludde\Sources\Igloo\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Ludde\Sources\Igloo\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Ludde\Sources\Igloo\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Ludde\Sources\Igloo\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Ludde\Sources\Igloo\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Ludde\Sources\Igloo\Common\obj\Debug\netstandard2.0\Common.pdb

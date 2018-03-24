@@ -1,0 +1,12 @@
+C:\Ludde\Sources\Igloo\IglooBuilder\bin\Debug\netcoreapp2.0\IglooBuilder.deps.json
+C:\Ludde\Sources\Igloo\IglooBuilder\bin\Debug\netcoreapp2.0\IglooBuilder.runtimeconfig.json
+C:\Ludde\Sources\Igloo\IglooBuilder\bin\Debug\netcoreapp2.0\IglooBuilder.runtimeconfig.dev.json
+C:\Ludde\Sources\Igloo\IglooBuilder\bin\Debug\netcoreapp2.0\IglooBuilder.dll
+C:\Ludde\Sources\Igloo\IglooBuilder\bin\Debug\netcoreapp2.0\IglooBuilder.pdb
+C:\Ludde\Sources\Igloo\IglooBuilder\obj\Debug\netcoreapp2.0\IglooBuilder.csproj.CoreCompileInputs.cache
+C:\Ludde\Sources\Igloo\IglooBuilder\obj\Debug\netcoreapp2.0\IglooBuilder.AssemblyInfoInputs.cache
+C:\Ludde\Sources\Igloo\IglooBuilder\obj\Debug\netcoreapp2.0\IglooBuilder.AssemblyInfo.cs
+C:\Ludde\Sources\Igloo\IglooBuilder\obj\Debug\netcoreapp2.0\IglooBuilder.dll
+C:\Ludde\Sources\Igloo\IglooBuilder\obj\Debug\netcoreapp2.0\IglooBuilder.pdb
+C:\Ludde\Sources\Igloo\IglooBuilder\bin\Debug\netcoreapp2.0\Common.dll
+C:\Ludde\Sources\Igloo\IglooBuilder\bin\Debug\netcoreapp2.0\Common.pdb
