@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Common;
 
 namespace IglooBuilder
@@ -9,7 +10,12 @@ namespace IglooBuilder
         {
             Console.WriteLine("Hello World!");
 
-            var v = new Vector3d(1,2,3);
+            var igloo = new Igloo();
+            igloo.Build();
+
+            StlWriter.Create(@"C:\Temp\igloo.stl", igloo.Triangles, igloo.Vertexes);
+
+            Console.WriteLine("Done!");
         }
     }
 }

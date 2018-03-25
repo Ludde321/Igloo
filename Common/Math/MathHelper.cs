@@ -4,24 +4,24 @@ namespace Common
 {
     public static class MathHelper
     {
-        public static double ToRadians(double val)
+        public static double ToRadians(double degrees)
         {
-            return (Math.PI / 180) * val;
+            return (Math.PI / 180) * degrees;
         }
 
-        public static double ToDegrees(double val)
+        public static double ToDegrees(double radians)
         {
-            return (180 / Math.PI) * val;
+            return (180 / Math.PI) * radians;
         }
 
-        public static float ToRadians(float val)
+        public static float ToRadians(float degrees)
         {
-            return (float)(Math.PI / 180) * val;
+            return (float)(Math.PI / 180) * degrees;
         }
 
-        public static float ToDegrees(float val)
+        public static float ToDegrees(float radians)
         {
-            return (float)(180 / Math.PI) * val;
+            return (float)(180 / Math.PI) * radians;
         }
 
         public static Vector2d SphericalToTextureCoords(double lat, double lon)
